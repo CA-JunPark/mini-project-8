@@ -25,7 +25,7 @@ BCIT Master of Science - Applied Computing : COMP 9130 - Applied Artificial Inte
 
 ## Setup instructions
     Clone the repository:
-        git clone <repository-url>
+        git clone https://github.com/CA-JunPark/mini-project-8.git
     Upload the .ipynb files to Google Colab.
     Select the GPU runtime.
     Run the cells in order.
